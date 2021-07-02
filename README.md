@@ -1,2 +1,2 @@
 # blogprimero
-curso de platzi ejemplo
+ejemplo
